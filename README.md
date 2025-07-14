@@ -1,6 +1,6 @@
 # Data
 
-&&It is recommended to process libraries within personal computer storage and usage.**
+**It is recommended to process libraries within personal computer storage and usage.**
 
 For this particular data generation, the DNA pool (n=40,000) was equally divided into 2 batches (n=20,000).
 * Complete analysized pool
